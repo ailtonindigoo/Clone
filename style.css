@@ -1,0 +1,33 @@
+header {
+    background: linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(6,46,43,1) 100%);
+    color: #ffffff;
+    padding: 10px 0px 10px 0px;
+    font-size: 15px;
+}
+
+.fab {
+    padding: 0px 3px 0px 3px;
+}
+
+body {
+    font-family: "poppins", sans-serif;
+}
+
+.hfb {
+    padding-left: 10px;
+}
+
+.fab, .hfb, .fas {
+    font-size: 16px;
+}
+
+.logo {
+    width: 85%;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.nav {
+    
+}
